@@ -159,6 +159,6 @@ A collection of mini-projects and experiments built while learning Object-Orient
 
 <div align="center">
 
-**Thanks for stopping by.**
+**Thanks for stopping by.....**
 
 </div>
