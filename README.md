@@ -166,12 +166,6 @@ Currently exploring:
 
 ## GitHub Activity
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=SiDdHaRtH-0509&show_icons=true&theme=github_dark)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiDdHaRtH-0509&layout=compact&theme=github_dark)
-
 ![Contribution
 Graph](https://github-readme-activity-graph.vercel.app/graph?username=SiDdHaRtH-0509&theme=github-dark)
 
