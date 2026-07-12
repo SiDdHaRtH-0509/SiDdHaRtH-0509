@@ -1,180 +1,112 @@
 # Siddharth Gopal Dubey
 
-### Problem Solver
+### Problem Solver · Backend · Security · AI
 
-> Curious about how systems work under the hood --- exploring backend
-> engineering, cybersecurity, artificial intelligence, and scalable
-> software architecture.
+Building systems, exploring security, and learning how modern software
+works beneath the surface.
 
 ------------------------------------------------------------------------
 
-## About Me
+## About
 
 ``` ts
 const siddharth = {
-    role: "Problem Solver",
-    education: {
-        degree: "B.Tech in Computer Science Engineering",
-        college: "SHEAT College of Engineering",
-        graduationYear: 2029
-    },
+  education: "B.Tech CSE • SHEAT College of Engineering",
+  graduation: 2029,
 
-    interests: [
-        "Backend Engineering",
-        "Cybersecurity",
-        "Artificial Intelligence",
-        "Authentication Systems",
-        "APIs",
-        "Databases",
-        "Distributed Systems",
-        "Software Architecture"
-    ],
+  domains: [
+    "Backend Engineering",
+    "Cybersecurity",
+    "Artificial Intelligence",
+    "System Design"
+  ],
 
-    currentlyLearning: [
-        "Python OOP",
-        "Cybersecurity Fundamentals",
-        "Scalable Backend Systems"
-    ],
+  currentFocus: [
+    "APIs & Authentication",
+    "Databases",
+    "Scalable Architectures"
+  ],
 
-    contact: "Open to collaborations, discussions, and helping others."
+  philosophy:
+    "Understand the system before optimizing the code."
 };
 ```
 
 ------------------------------------------------------------------------
 
-## Engineering Interests
-
-I enjoy building and understanding real-world systems: from APIs and
-authentication flows to databases, security concepts, and AI-powered
-applications. My focus is not just on writing code, but on understanding
-why systems are designed the way they are.
-
-------------------------------------------------------------------------
-
-## Selected Projects
+## Selected Work
 
 ### CLiNt-Platform
 
-A full-stack AI-powered EdTech platform that manages workshops,
-automates emails, and assists students through an AI chatbot --- built
-and deployed during a hackathon in six hours.
+An AI-powered EdTech platform built and deployed during a hackathon in
+six hours.
 
-**Tech Stack**
+**Stack:** React · Vite · Node.js · Express · MongoDB · JWT · Groq ·
+LLaMA · Brevo · PDFKit
 
-  Layer            Technology
-  ---------------- ---------------------
-  Frontend         React, Vite
-  Backend          Node.js, Express
-  Database         MongoDB Atlas
-  Authentication   JWT, bcrypt
-  AI               Groq API, LLaMA 3.1
-  Services         Brevo, PDFKit
-  Deployment       Vercel, Render
-
--   Repository: https://github.com/SiDdHaRtH-0509/CLiNt-Platform
--   Live: https://c-li-nt-platform-95e1.vercel.app/
+**Live:** https://c-li-nt-platform-95e1.vercel.app/
 
 ------------------------------------------------------------------------
 
-### Google---Foundations-of-Cybersecurity
+### Google Foundations of Cybersecurity
 
-A learning repository documenting my progress through Google's
-Foundations of Cybersecurity course on Coursera.
-
-Topics explored:
-
--   Security principles
-
--   Network security
-
--   Risk management
-
--   Security operations
-
--   Digital safety
-
--   Repository:
-    https://github.com/SiDdHaRtH-0509/Google---Foundations-of-Cybersecurity
+My notes, exercises, and projects while studying cybersecurity
+fundamentals, networking, risk management, and security operations.
 
 ------------------------------------------------------------------------
 
-### python-oop-basic
+### Python OOP Basic
 
-A collection of mini-projects and experiments built while learning
-Object-Oriented Programming in Python.
-
-Topics explored:
-
--   Classes
-
--   Inheritance
-
--   Encapsulation
-
--   File handling
-
--   Problem solving
-
--   Repository: https://github.com/SiDdHaRtH-0509/python-oop-basic
+Mini-projects and experiments built while learning object-oriented
+programming in Python.
 
 ------------------------------------------------------------------------
 
-## Technology Stack
+## Tech
 
-### Languages
+**Languages**
 
 Python · JavaScript · C · HTML · CSS
 
-### Frontend
+**Frontend**
 
 React · Vite
 
-### Backend
+**Backend**
 
 Node.js · Express · FastAPI
 
-### Databases
+**Database**
 
 MongoDB · PostgreSQL
 
-### AI & APIs
+**AI & Security**
 
-Groq API · OpenAI · LLaMA
+Groq · OpenAI · JWT · Authentication
 
-### Security
+**Tools**
 
-JWT · Authentication · Cybersecurity Fundamentals
-
-### Tools
-
-Git · GitHub · VS Code · Render · Vercel · Railway
+Git · GitHub · VS Code · Vercel · Render · Railway
 
 ------------------------------------------------------------------------
 
-## Learning Journey
+## Currently Exploring
 
-Currently exploring:
+-   Backend systems
+-   APIs and authentication
+-   Cybersecurity
+-   Distributed systems
+-   Artificial intelligence
+-   Software architecture
 
--   Backend systems and APIs
--   Cybersecurity and identity systems
--   AI-powered applications
--   Database design
--   System architecture
--   Scalable software engineering
-
-------------------------------------------------------------------------
-
-## GitHub Activity
-
-[![Siddharth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiDdHaRtH-0509&theme=github-dark&hide_border=true)](https://github.com/SiDdHaRtH-0509)
 ------------------------------------------------------------------------
 
 ## Connect
 
 -   LinkedIn: https://www.linkedin.com/in/siddharth-dubey-cse
--   X / Twitter: https://x.com/CL14Siddharth
+-   X: https://x.com/CL14Siddharth
 -   Email: clsiddharth7075@gmail.com
 
 ------------------------------------------------------------------------
 
-Thanks for stopping by.
+> Open to collaborations, discussions, and interesting ideas.
