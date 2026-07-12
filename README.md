@@ -166,11 +166,7 @@ Currently exploring:
 
 ## GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiDdHaRtH-0509/SiDdHaRtH-0509/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiDdHaRtH-0509/SiDdHaRtH-0509/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SiDdHaRtH-0509/SiDdHaRtH-0509/output/github-contribution-grid-snake.svg">
-</picture>
+[![Siddharth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiDdHaRtH-0509&theme=github-dark&hide_border=true)](https://github.com/SiDdHaRtH-0509)
 ------------------------------------------------------------------------
 
 ## Connect
