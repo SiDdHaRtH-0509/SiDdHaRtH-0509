@@ -110,22 +110,17 @@ A collection of mini-projects and experiments built while learning Object-Orient
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
 
-### Frontend
+### Currently Learning
 
-<img src="https://skillicons.dev/icons?i=react,vite" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode" />
 
-### Backend & Databases
+### Worked With
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,fastapi" />
-
-### AI, Security & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=mongodb,vercel,render" />
 
 </div>
-
 ---
 
 ## Current Focus
