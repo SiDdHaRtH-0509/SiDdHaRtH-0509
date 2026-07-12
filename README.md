@@ -142,10 +142,6 @@ A collection of mini-projects and experiments built while learning Object-Orient
 ## GitHub
 
 <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiDdHaRtH-0509&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiDdHaRtH-0509&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
 </p>
 
