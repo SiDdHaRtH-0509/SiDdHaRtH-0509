@@ -98,11 +98,6 @@ Topics explored:
 
 ------------------------------------------------------------------------
 
-## GitHub Activity
-
-[![Siddharth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiDdHaRtH-0509&theme=github-dark&hide_border=true)](https://github.com/SiDdHaRtH-0509)
-
--------------------------------------------------------------------------
 ### python-oop-basic
 
 A collection of mini-projects and experiments built while learning
@@ -115,3 +110,79 @@ Topics explored:
 -   Inheritance
 
 -   Encapsulation
+
+-   File handling
+
+-   Problem solving
+
+-   Repository: https://github.com/SiDdHaRtH-0509/python-oop-basic
+
+------------------------------------------------------------------------
+
+## Technology Stack
+
+### Languages
+
+Python · JavaScript · C · HTML · CSS
+
+### Frontend
+
+React · Vite
+
+### Backend
+
+Node.js · Express · FastAPI
+
+### Databases
+
+MongoDB · PostgreSQL
+
+### AI & APIs
+
+Groq API · OpenAI · LLaMA
+
+### Security
+
+JWT · Authentication · Cybersecurity Fundamentals
+
+### Tools
+
+Git · GitHub · VS Code · Render · Vercel · Railway
+
+------------------------------------------------------------------------
+
+## Learning Journey
+
+Currently exploring:
+
+-   Backend systems and APIs
+-   Cybersecurity and identity systems
+-   AI-powered applications
+-   Database design
+-   System architecture
+-   Scalable software engineering
+
+------------------------------------------------------------------------
+
+## GitHub Activity
+
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=SiDdHaRtH-0509&show_icons=true&theme=github_dark)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiDdHaRtH-0509&layout=compact&theme=github_dark)
+
+![Contribution
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=SiDdHaRtH-0509&theme=github-dark)
+
+------------------------------------------------------------------------
+
+## Connect
+
+-   LinkedIn: https://www.linkedin.com/in/siddharth-dubey-cse
+-   X / Twitter: https://x.com/CL14Siddharth
+-   Email: clsiddharth7075@gmail.com
+
+------------------------------------------------------------------------
+
+Thanks for stopping by.
