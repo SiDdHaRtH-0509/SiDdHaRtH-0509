@@ -98,6 +98,11 @@ Topics explored:
 
 ------------------------------------------------------------------------
 
+## GitHub Activity
+
+[![Siddharth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiDdHaRtH-0509&theme=github-dark&hide_border=true)](https://github.com/SiDdHaRtH-0509)
+
+-------------------------------------------------------------------------
 ### python-oop-basic
 
 A collection of mini-projects and experiments built while learning
