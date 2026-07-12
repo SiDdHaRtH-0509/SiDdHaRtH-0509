@@ -1,161 +1,168 @@
-::: {align="center"}
+<div align="center">
+
 # Siddharth Gopal Dubey
 
 ### Problem Solver
 
-Building systems, exploring security, and understanding how software
-works beneath the surface.
+> Building systems, exploring intelligence, and understanding how software works beneath the surface.
 
-`<br>`{=html}
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-dubey-cse)
-[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CL14Siddharth)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clsiddharth7075@gmail.com)
-:::
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-dubey-cse)
+[![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/CL14Siddharth)
+[![Gmail](https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:clsiddharth7075@gmail.com)
 
-------------------------------------------------------------------------
+</div>
 
-## About Me
+---
 
-``` ts
+## About
+
+```ts
 const siddharth = {
     role: "Problem Solver",
 
     education: {
-        degree: "B.Tech in Computer Science Engineering",
+        degree: "B.Tech, Computer Science Engineering",
         college: "SHEAT College of Engineering",
         graduationYear: 2029
     },
 
-    domains: [
+    interests: [
         "Backend Engineering",
         "Cybersecurity",
         "Artificial Intelligence",
         "System Design"
     ],
 
-    currentFocus: [
+    currentlyExploring: [
         "Authentication Systems",
-        "APIs",
-        "Databases",
-        "Scalable Architectures"
+        "Distributed Systems",
+        "Scalable APIs",
+        "Software Architecture"
     ],
 
-    mindset: "Understand the system before optimizing the code.",
+    philosophy:
+        "Understand the system before optimizing the code.",
 
-    collaboration: "Open to discussions, collaborations, and helping others."
+    collaboration:
+        "Open to discussions, collaborations, and helping others."
 };
 ```
 
-------------------------------------------------------------------------
+---
 
 ## Engineering Interests
 
-I enjoy designing and understanding systems that operate at scale---from
-APIs and authentication flows to databases, cybersecurity, and
-AI-powered applications. Beyond writing code, I am interested in how
-products evolve, how infrastructure behaves under load, and how
-technology intersects with business.
+I enjoy designing systems that solve real problems—from APIs and authentication flows to databases, cybersecurity, and AI-powered applications. Beyond writing code, I am interested in understanding how products evolve, how infrastructure behaves at scale, and how engineering intersects with business.
 
-------------------------------------------------------------------------
+---
 
-## Featured Projects
+## Selected Projects
 
 ### CLiNt-Platform
 
-A full-stack AI-powered EdTech platform that manages workshops,
-automates emails, and assists students through an AI chatbot.
+A full-stack AI-powered EdTech platform that manages workshops, automates emails, and assists students through an AI chatbot.
 
-Built and deployed live during a hackathon in just six hours.
+Built and deployed live during a hackathon in six hours.
 
-  Layer            Technology
-  ---------------- ----------------------
-  Frontend         React · Vite
-  Backend          Node.js · Express
-  Database         MongoDB Atlas
-  Authentication   JWT · bcrypt
-  AI               Groq API · LLaMA 3.1
-  Services         Brevo · PDFKit
-  Deployment       Vercel · Render
+| Layer | Technology |
+| :--- | :--- |
+| Frontend | React · Vite |
+| Backend | Node.js · Express |
+| Database | MongoDB Atlas |
+| Authentication | JWT · bcrypt |
+| AI | Groq API · LLaMA 3.1 |
+| Services | Brevo · PDFKit |
+| Deployment | Vercel · Render |
 
 **Live:** https://c-li-nt-platform-95e1.vercel.app/
 
-------------------------------------------------------------------------
+---
 
 ### Google---Foundations-of-Cybersecurity
 
-Currently pursuing Google's Foundations of Cybersecurity course on
-Coursera while building a strong understanding of:
+My learning repository while pursuing Google's Foundations of Cybersecurity course on Coursera.
 
--   Security principles
--   Network security
--   Risk management
--   Security operations
--   Digital safety
+- Security principles
+- Network security
+- Risk management
+- Security operations
+- Digital safety
 
-------------------------------------------------------------------------
+---
 
 ### python-oop-basic
 
-A collection of mini-projects and experiments built while learning
-Object-Oriented Programming in Python.
+A collection of mini-projects and experiments built while learning Object-Oriented Programming in Python.
 
-------------------------------------------------------------------------
+- Classes and objects
+- Inheritance
+- Encapsulation
+- File handling
+- Problem solving
+
+---
 
 ## Technology Stack
 
-::: {align="center"}
+<div align="center">
+
 ### Languages
 
-`<img src="https://skillicons.dev/icons?i=python,js,c,html,css" />`{=html}
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css" />
 
 ### Frontend
 
-`<img src="https://skillicons.dev/icons?i=react,vite" />`{=html}
+<img src="https://skillicons.dev/icons?i=react,vite" />
 
 ### Backend & Databases
 
-`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,fastapi" />`{=html}
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,fastapi" />
 
-### Tools & Platforms
+### AI, Security & Tools
 
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />`{=html}
-:::
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
-------------------------------------------------------------------------
+</div>
 
-## Currently Exploring
+---
 
--   Backend systems and APIs
--   Cybersecurity and authentication
--   Database design
--   Distributed systems
--   Software architecture
--   AI-powered applications
+## Current Focus
 
-------------------------------------------------------------------------
+- Backend systems and APIs
+- Cybersecurity fundamentals
+- AI-powered applications
+- Database design
+- Distributed systems
+- Software architecture
 
-## GitHub Overview
+---
 
-```{=html}
+## GitHub
+
 <p align="center">
-```
-`<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiDdHaRtH-0509&layout=compact&theme=github_dark" />`{=html}
-```{=html}
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiDdHaRtH-0509&layout=compact&theme=transparent&hide_border=true" />
 </p>
-```
-> The repositories matter more than the widgets.
 
-------------------------------------------------------------------------
+<p align="center">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiDdHaRtH-0509&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
+</p>
+
+> I care more about understanding systems and building products than collecting badges.
+
+---
 
 ## Connect
 
--   LinkedIn → https://www.linkedin.com/in/siddharth-dubey-cse
--   X / Twitter → https://x.com/CL14Siddharth
--   Email → clsiddharth7075@gmail.com
+- LinkedIn → https://www.linkedin.com/in/siddharth-dubey-cse
+- X / Twitter → https://x.com/CL14Siddharth
+- Email → clsiddharth7075@gmail.com
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
-Thanks for stopping by.
-:::
+<div align="center">
+
+**Thanks for stopping by.**
+
+</div>
