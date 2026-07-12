@@ -110,7 +110,7 @@ A collection of mini-projects and experiments built while learning Object-Orient
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,c" />
 
 ### Currently Learning
 
