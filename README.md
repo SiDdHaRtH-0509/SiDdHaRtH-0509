@@ -4,7 +4,7 @@
 
 ### Problem Solver
 
-> Building systems, exploring intelligence, and understanding how software works beneath the surface.
+> Building systems, exploring intelligence, and understanding how software works beneath the surface. 
 
 <br>
 
