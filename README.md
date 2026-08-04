@@ -55,7 +55,7 @@ const siddharth = {
 ## Engineering Interests
 
 I enjoy designing systems that solve real problems—from APIs and authentication flows to databases, cybersecurity, and AI-powered applications. Beyond writing code, I am interested in understanding how products evolve, how infrastructure behaves at scale, and how engineering intersects with business.
-
+ 
 ---
 
 ## Selected Projects
